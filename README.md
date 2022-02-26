@@ -47,5 +47,5 @@ jobs:
               in software architecture and digital solutions development.
       - name: Interests
         run:  Outside of work, I like swimming, biking, running, hiking and 
-              spending time with my family, my wife and our two wonderful kids.
+              spending time with my family.
 ```
