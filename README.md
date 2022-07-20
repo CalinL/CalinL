@@ -2,7 +2,7 @@
 
 - I am a continuous learner 🌱, enthusiastic about technologies and new challenges, motivated team worker who likes to collaborate and share knowledge, mentor team members, and help them grow.
 
-- Passionate Solutions Architect with over 18 years of experience in software architecture and digital solutions development.
+- Passionate Solutions Architect with over 19 years of experience in software architecture and digital solutions development.
 
 - Outside of work, I like swimming 🏊, biking 🚴‍♂️, running 🏃‍♂️, hiking and spending time with my family 👨‍👩‍👧‍👦.
 
@@ -17,7 +17,7 @@ on:
     branches: [Who-Am-I]
 jobs:
   Microsoft:
-    runs-on: Principal Customer Technical Expert
+    runs-on: Senior Cloud Solution Architect
     environment:
       area:  Digital & App Innovation
       team:  Developer Support Team
@@ -33,6 +33,7 @@ jobs:
       with:
         architect: Azure Solutions Architect Expert
         developer: Azure Developer Associate
+        devops:    DevOps Engineer Expert
         trainer:   Microsoft Certified Trainer
         webapp:    MCPD Web Developer 4, MCTS, MCSD, MCAD, MCP
   Profile:
